@@ -1,0 +1,19 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family:  'Arial';
+}
+
+#contenedor{
+    border:1px solid black;
+    width: 30%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+#cabecera{
+    background-color: cornflowerblue;
+    padding: 10px;
+    color: darkblue;
+    font-weight: bold;
+}
