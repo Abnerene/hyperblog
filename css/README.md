@@ -5,4 +5,3 @@ Un blog increible para el curos de Git y GitHub de Platzi
 En este curso vemos de todo:
 *Todos los comandos de git
 *El flujo de trabajo 
-
