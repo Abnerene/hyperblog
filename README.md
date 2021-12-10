@@ -8,3 +8,4 @@ En este curso vemos de todo:
 
 *Creado por el increible patzi team
 *Incluye ejemplos en Windows Linux y Mac
+*Disponible para todas las edades
