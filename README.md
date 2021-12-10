@@ -6,3 +6,5 @@ En este curso vemos de todo:
 *Todos los comandos de git
 *El flujo de trabajo 
 
+*Creado por el increible patzi team
+
