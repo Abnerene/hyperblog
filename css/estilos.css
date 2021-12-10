@@ -14,8 +14,9 @@ body{
 }
 
 #cabecera{
-    background-color: cornflowerblue;
+    background-color: rgb(237, 100, 100);
     padding: 10px;
     color: darkblue;
     font-weight: bold;
 }
+
