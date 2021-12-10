@@ -7,4 +7,4 @@ En este curso vemos de todo:
 *El flujo de trabajo 
 
 *Creado por el increible patzi team
-
+*Incluye ejemplos en Windows Linux y Mac
